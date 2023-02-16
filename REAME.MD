@@ -8,5 +8,5 @@ maybe push process is that:
 3. Do stagitlqng what you want to commit 
 
 
-Next, I need to know 'How I using for branch?'
+Next, I need to know 'How can I using for branch?'
 Let's test. 
